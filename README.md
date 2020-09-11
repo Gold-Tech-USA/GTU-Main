@@ -1,2 +1,2 @@
 # GTU-Main
-Public view of development. No company logic copyrighted concepts included. 
+Public view of development. Contains no company copyrighted logic concepts. 
